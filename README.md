@@ -12,6 +12,8 @@
   <strong>Private Systems Builder · Product Engineer · AI & Automation</strong>
 </p>
 
+<p align="center"><em>Building quietly. Shipping carefully.</em></p>
+
 <p align="center">
   I design and build reliable software for real operations—where data integrity,
   clear system truth, and careful execution matter.
